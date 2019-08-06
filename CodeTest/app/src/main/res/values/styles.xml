@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!--<item name="radioButtonStyle">@style/RadioButtonStyle</item>-->
+    </style>
+
+    <!--<style name="AppTheme.NoActionBar">-->
+    <!--<item name="windowActionBar">false</item>-->
+    <!--<item name="windowNoTitle">true</item>-->
+    <!--&lt;!&ndash;<item name="drawerArrowStyle">@style/MyDrawerArrowToggle</item>&ndash;&gt;-->
+    <!--</style>-->
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+    <!--<style name="SplashTheme" parent="AppTheme.NoActionBar">-->
+    <!--<item name="android:windowBackground">@drawable/background_splash</item>-->
+    <!--</style>-->
+
+    <!--<style name="RadioButtonStyle" parent="Base.Widget.AppCompat.CompoundButton.RadioButton">-->
+    <!--<item name="android:textColor">@color/selector_rb_car_type</item>-->
+    <!--</style>-->
+
+    <!--<style name="MyDrawerArrowToggle" parent="Widget.AppCompat.DrawerArrowToggle">-->
+    <!--<item name="color">@color/white</item>-->
+    <!--</style>-->
+
+</resources>
